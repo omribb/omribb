@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omribb
+👋 Hi, I’m @omribb
 
 <!---
 omribb/omribb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
